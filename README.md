@@ -13,7 +13,7 @@ This repository contains the manual testing report for the "made-in-china.com" B
 
 ## Table of Contents
 
-- [Test Plan]()
+- [Test Plan](Bug_Report.xlsx)
 - [Test Cases](#test-cases)
 - [Test Execution](#test-execution)
 - [Test Results](#test-results)
