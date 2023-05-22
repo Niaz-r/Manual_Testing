@@ -17,13 +17,14 @@ This repository contains the manual testing report for the "made-in-china.com" B
 
 ## Table of Contents
 
-- [Test Plan](Bug_Report.xlsx)
-- [Test Cases](#test-cases)
-- [Test Execution](#test-execution)
-- [Test Results](#test-results)
+- [Test Cases](Test_Cases.xlsx)
+- [Test Report](Test_Report.xlsx)
+- [Bug Report](Bug_Report.xlsx)
+- [Test Matrix](Test_matrix.xlsx)
 - [Conclusion](#conclusion)
 
 ## Test Plan
+![Screenshot](https://drive.google.com/file/d/15Y4bOfuaw0PwNNGuUumyowf5LfEVRnZc/view?usp=sharing)
 
 The test plan outlines the objectives and approach for conducting manual testing on the "made-in-china.com" website. It includes an overview of the testing scope, test environment, and the resources required for testing.
 
@@ -56,6 +57,3 @@ The test results are presented in the form of a chart and table, providing a sum
 In conclusion, the manual testing process for the "made-in-china.com" website has been executed successfully. The test cases were systematically executed, and the results were documented. Any issues or observations were recorded, and recommendations for improvements were noted.
 
 The testing process has helped identify areas of improvement in the user interface and the signup/sign-in methods. The results of this testing will guide the development team in addressing any identified issues and enhancing the overall user experience.
-
-For more detailed information and specific test case results, please refer to the [complete testing report](link/to/complete/report.pdf).
-
