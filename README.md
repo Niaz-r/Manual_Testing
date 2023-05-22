@@ -11,10 +11,6 @@ Additionally, the signup and sign-in methods will be thoroughly tested to ensure
 This repository contains the manual testing report for the "made-in-china.com" B2B e-commerce website. The report includes test cases, test execution details, and the results of the testing process.
 
 
-## Authors
-
-- [@Md Niaz Rahanan](https://github.com/Niaz-r)
-
 ## Table of Contents
 
 - [Test Cases](Test_Cases.xlsx)
@@ -50,3 +46,8 @@ The test results are presented in the form of a chart and table, providing a sum
 In conclusion, the manual testing process for the "made-in-china.com" website has been executed successfully. The test cases were systematically executed, and the results were documented. Any issues or observations were recorded, and recommendations for improvements were noted.
 
 The testing process has helped identify areas of improvement in the user interface and the signup/sign-in methods. The results of this testing will guide the development team in addressing any identified issues and enhancing the overall user experience.
+
+## Authors
+
+- [@Md Niaz Rahanan](https://github.com/Niaz-r)
+
