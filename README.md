@@ -24,7 +24,7 @@ This repository contains the manual testing report for the "made-in-china.com" B
 - [Conclusion](#conclusion)
 
 ## Test Plan
-![Screenshot](https://drive.google.com/file/d/15Y4bOfuaw0PwNNGuUumyowf5LfEVRnZc/view?usp=sharing)
+[Screenshot](https://drive.google.com/file/d/15Y4bOfuaw0PwNNGuUumyowf5LfEVRnZc/view?usp=sharing)
 
 The test plan outlines the objectives and approach for conducting manual testing on the "made-in-china.com" website. It includes an overview of the testing scope, test environment, and the resources required for testing.
 
