@@ -24,33 +24,26 @@ This repository contains the manual testing report for the "made-in-china.com" B
 - [Conclusion](#conclusion)
 
 ## Test Plan
-[Screenshot](https://drive.google.com/file/d/15Y4bOfuaw0PwNNGuUumyowf5LfEVRnZc/view?usp=sharing)
+![Screenshot](https://github.com/Niaz-r/photos/blob/3615edd90801fd1ed994a3afc6ad4d2f084add6d/Screenshot_1.png)
 
 The test plan outlines the objectives and approach for conducting manual testing on the "made-in-china.com" website. It includes an overview of the testing scope, test environment, and the resources required for testing.
 
 ## Test Cases
 
 The test cases document includes a comprehensive list of 35 test cases developed to assess the user interface and the signup/sign-in methods of the website. Each test case specifies the test objective, steps to reproduce, expected results, and any additional notes or observations.
-
+![Screenshot](https://github.com/Niaz-r/photos/blob/8086115dcdf9cdf24076511f3a8c7f5f0ca08d3a/testcases1.jpg)
+![cases](https://github.com/Niaz-r/photos/blob/8086115dcdf9cdf24076511f3a8c7f5f0ca08d3a/cases2.jpg)
 ## Test Execution
 
-The test execution section provides details on the execution of the test cases. It includes information such as the date of execution, the tester responsible, and any specific notes or observations made during the testing process.
+The test execution process was run by several web browser as FireFox, Google Chrome as per test plan.
 
 ## Test Results
-
-The test results are presented in the form of a chart and table, providing a summary of the outcomes. The chart visualizes the overall test coverage and the distribution of passed, failed, and unresolved test cases. The table presents a detailed breakdown of each test case, its status, and any notes or comments related to the results.
-
+The test results are presented in the form of a chart and table, providing a summary of the outcomes. The chart visualizes the overall test coverage and the distribution of passed, failed, and unresolved test cases.This Shows that 73% test cases are passed and 27% test cases failed.
+![Screenshot](https://github.com/Niaz-r/photos/blob/65ae1693bf576aa415c6499672c7ffbcc3de1859/report1.jpg) ![screenshot](https://github.com/Niaz-r/photos/blob/65ae1693bf576aa415c6499672c7ffbcc3de1859/report2.jpg)
 ### Test Coverage Chart
+![Screenshot](https://github.com/Niaz-r/photos/blob/8086115dcdf9cdf24076511f3a8c7f5f0ca08d3a/reportpie2.jpg)
 
-[Insert a chart or graph here to represent the test coverage and outcomes.]
 
-### Test Results Table
-
-| Test Case ID | Test Case Description               | Status   | Notes/Comments                                      |
-|--------------|------------------------------------|----------|-----------------------------------------------------|
-| 1            | User interface layout              | Passed   | -                                                   |
-| 2            | Navigation on different devices    | Passed   | -                                                   |
-| ...          | ...                                | ...      | ...                                                 |
 
 ## Conclusion
 
